@@ -31,6 +31,7 @@ a:hover {
     margin: 20px 0;
 }
 
+
 .bloc {
     width: 100%;
     clear: both;
@@ -289,6 +290,7 @@ a:hover {
 
 #bloc-1-hero h1 {
     font-size: 32px;
+    color: white;
 }
 
 .navbar {
@@ -779,7 +781,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
